@@ -1,24 +1,19 @@
-# IA - Python
+---
 
-Proyecto académico de Inteligencia Artificial.
+# Evidencias - Clase 2
 
-## Tecnologías
+## Evidencia 1
 
-- Python
-- Docker
-- Docker Compose
-- Git
-- GitHub
+![Evidencia 1](Evidencia/Captura%20de%20pantalla%202026-08-30%20163734.png)
 
-## Ejecución
+## Evidencia 2
 
-```bash
-docker compose build
-docker compose up
-```
+![Evidencia 2](Evidencia/Captura%20de%20pantalla%202026-08-30%20163756.png)
 
-## Detener
+## Evidencia 3
 
-```bash
-docker compose down
-```
+![Evidencia 3](Evidencia/Captura%20de%20pantalla%202026-08-30%20164443.png)
+
+## Evidencia 4
+
+![Evidencia 4](Evidencia/Captura%20de%20pantalla%202026-08-30%20164918.png)
