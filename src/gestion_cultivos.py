@@ -1,5 +1,4 @@
-# Gestión de cultivos en Cartago
-# Clase 2 - Inteligencia Artificial
+
 
 cultivos = [
     {
@@ -66,8 +65,8 @@ def cultivo_mayor_rendimiento(lista_cultivos):
 
 
 # Programa principal
-if __name__ == "__main__":
 
+if __name__ == "__main__":
     mostrar_cultivos(cultivos)
 
     mayor_rendimiento = cultivo_mayor_rendimiento(cultivos)
