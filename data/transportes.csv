@@ -1,0 +1,11 @@
+vehiculo,origen,destino,distancia_km,pasajeros
+Bus 01,Cartago,Pereira,28.5,35
+Bus 02,Cartago,Armenia,42.3,40
+Bus 03,Cartago,La Virginia,31.7,28
+Bus 04,Cartago,Pereira,27.9,37
+Bus 05,Cartago,Anserma,36.5,30
+Bus 06,Cartago,Pereira,29.1,42
+Bus 07,Cartago,Armenia,43.2,38
+Bus 08,Cartago,La Virginia,32.4,31
+Bus 09,Cartago,Pereira,28.8,40
+Bus 10,Cartago,Anserma,37.1,29
